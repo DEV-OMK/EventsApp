@@ -1,0 +1,49 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+
+.initial-message {
+  color: #323f4b;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  justify-self: flex-start;
+}
+
+.yet-to-register-image {
+  width: 80%;
+}
+
+.caption {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.registration-button {
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  color: #f8fafc;
+  background-color: #0967d2;
+  padding: 8px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.register-image {
+  width: 40%;
+}
+
+.title {
+  color: #323f4b;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.registration-closed-image {
+  width: 80%;
+}
